@@ -19,11 +19,11 @@ Landing Page:
 
 ![Screenshot 1](/Screenshots/1.png)
 
-![Screenshot 2](/Screenshots/2.png)
+![Screenshot 2](/Screenshots/3.png)
 
-Graph View Changes:
+Dropdown selection:
 
-![Screenshot 1](/Screenshots/3.png)
+![Screenshot 1](/Screenshots/2.png)
 
 
 ### Project Structre
