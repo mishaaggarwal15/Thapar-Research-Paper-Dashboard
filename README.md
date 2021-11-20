@@ -19,15 +19,15 @@ Landing Page:
 
 ![Screenshot 1](/Screenshots/1.png)
 
-![Screenshot 2](Thapar-Research-Paper-Dashboard/Screenshots/2.png)
+![Screenshot 2](/Screenshots/2.png)
 
 Graph View Changes:
 
-![Screenshot 1](Thapar-Research-Paper-Dashboard/Screenshots/3.png)
+![Screenshot 1](/Screenshots/3.png)
 
 
 ### Project Structre
-![Screenshot 1](Thapar-Research-Paper-Dashboard/Screenshots/tree.png)
+![Screenshot 1](/Screenshots/tree.png)
 
 ### Fowchart of Methodology:
 ![Screenshot 1](/Screenshots/Flowchart_of_methodology.png)
