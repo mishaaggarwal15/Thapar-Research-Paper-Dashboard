@@ -1,15 +1,15 @@
-from mimetypes import suffix_map
 import dash 
 import dash_core_components as dcc
 import dash_html_components as html
 import pandas as pd
-from pkg_resources import resource_string
-import plotly.graph_objs as go
+# from pkg_resources import resource_string
+# import plotly.graph_objs as go
 from dash.dependencies import Input, Output
 
 
 
 app = dash.Dash()
+server = app.server
 
 myheading1 = 'Thapar Research Paper Dashboard'
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -42,7 +42,6 @@ def update_output_1(value):
             df = pd.read_csv('final_data/{}'.format(filename))
             sum.append(df['count'].sum())
         sum_years_1.append(sum)
-    print(sum_years_1)
     for i in range(4):
         dept.append(sum_years_1[i][int(value)])
     
