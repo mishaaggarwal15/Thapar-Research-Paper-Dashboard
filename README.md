@@ -21,7 +21,7 @@ Landing Page:
 
 ![Screenshot 2](/Screenshots/3.png)
 
-Dropdown selection:
+# Dropdown Selection:
 
 ![Screenshot 1](/Screenshots/2.png)
 
