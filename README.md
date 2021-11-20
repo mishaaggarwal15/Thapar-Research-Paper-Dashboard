@@ -30,4 +30,4 @@ Landing Page:
 ![Screenshot 1](/Screenshots/tree.png)
 
 ### Fowchart of Methodology:
-![Screenshot 1](/Screenshots/Flowchart_of_methodology.png)
+![Screenshot 1](/Screenshots/Flowchart.png)
