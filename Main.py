@@ -140,7 +140,7 @@ app.layout = html.Div([
     dcc.Graph(id='graph1'),
     html.Div([
     html.Br(),
-        html.Div([html.A('Developed by Misha Aggarwal', href='https://github.com/mishaaggarwal15/currency_predictor', target='_blank')]),
+        html.Div([html.A('Developed by Misha Aggarwal', href='https://github.com/mishaaggarwal15/Thapar-Research-Paper-Dashboard', target='_blank')]),
         html.Br(),
     ],style = {'marginTop': 0,'marginBottom': 0, 'backgroundColor': colors['background'],'textAlign': 'center'})
 ])
