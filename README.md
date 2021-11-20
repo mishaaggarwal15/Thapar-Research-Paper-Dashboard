@@ -17,7 +17,7 @@ Technology used:
 
 Landing Page:
 
-![Screenshot 1](Thapar-Research-Paper-Dashboard/Screenshots/1.png)
+![Screenshot 1](/Screenshots/1.png)
 
 ![Screenshot 2](Thapar-Research-Paper-Dashboard/Screenshots/2.png)
 
