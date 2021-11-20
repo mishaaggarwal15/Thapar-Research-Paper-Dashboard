@@ -17,18 +17,17 @@ Technology used:
 
 Landing Page:
 
-![Screenshot 1](/Screenshots/Confidence_removed.png)
+![Screenshot 1](Thapar-Research-Paper-Dashboard/Screenshots/1.png)
 
-![Screenshot 2](/Screenshots/Tabular_prediction.png)
+![Screenshot 2](Thapar-Research-Paper-Dashboard/Screenshots/2.png)
 
 Graph View Changes:
 
-![Screenshot 1](/Screenshots/Initial_value_changed.png)
+![Screenshot 1](Thapar-Research-Paper-Dashboard/Screenshots/3.png)
 
-![Screenshot 2](/Screenshots/Region_select.png)
 
 ### Project Structre
-![Screenshot 1](/Screenshots/Tree.png)
+![Screenshot 1](Thapar-Research-Paper-Dashboard/Screenshots/tree.png)
 
 ### Fowchart of Methodology:
 ![Screenshot 1](/Screenshots/Flowchart_of_methodology.png)
