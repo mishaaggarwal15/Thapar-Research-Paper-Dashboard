@@ -1,16 +1,16 @@
 # Thapar Research Paper Dashboard
 
-### View live at https://currency-predictor-app.herokuapp.com/
+### View live at https://thapar-researchpaper-dashboard.herokuapp.com/
 
 The currency rate predictor uses freecurrency api for accessing different currencies and their conversion rates with respect to USD and predicts possible rates for next 14 days. This is a time series prediciton implemented using facebook's Prophet model. The model is deployed to a Dash based web application hosted on Heroku.  
 
-- The web application can be viewed [here](https://currency-predictor-app.herokuapp.com/).
+- The web application can be viewed [here](https://thapar-researchpaper-dashboard.herokuapp.com/).
 - Note that this project is still in progress and can be expanded to more currencies along with more accurate predictions.
 
 Currently supported currencies are:
 
 - Japanese Yen
-- Great Britain Pound
+- Great Britain Pounds
 - Australian Dollar
 - Canadian Dollar
 - Chinese Yen
